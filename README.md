@@ -13,7 +13,11 @@ Sou uma pessoa tranquila e estou sempre disponível para conversar sobre tecnolo
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,react,js,python,mysql,docker,git,github&perline=8&theme=dark" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=figma,react,js,python,postgres,docker,git,github&perline=8&theme=dark" alt="Tecnologias" />
+</p>
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,githubcopilot" alt="Ferramentas de IA" />
 </p>
 
 ## 📌 Projetos em destaque
