@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Banner do Mateus - Analista e Desenvolvedor de Sistemas" width="100%" />
+  <img src="./bannerMELHOR.png" alt="Banner do Mateus - Analista e Desenvolvedor de Sistemas" width="100%" />
 </p>
 
 ## 🚀 Sobre mim
